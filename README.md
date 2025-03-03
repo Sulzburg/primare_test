@@ -1,2 +1,2 @@
 # primare
-HA Custom_Integration for Primare Devices
+HA Custom_Integration for Primare SP(A)25 Prisma
