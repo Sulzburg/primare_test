@@ -1,11 +1,18 @@
 {
-    "domain": "primare",
-    "name": "Primare",
-    "version": "1.0",
-    "documentation": "https://www.primare.net",
-    "dependencies": [],
-    "codeowners": ["GuidoL", "ChatGPT"],
-    "requirements": [],
-    "iot_class": "local_polling",
-    "assets": ["custom_components/primare/icon.png"]
+   "domain":"primare",
+   "name":"Primare",
+   "version":"1.0",
+   "documentation":"https://github.com/Sulzburg/primare/blob/main/README.md",
+   "dependencies":[
+      
+   ],
+   "codeowners":[
+      "GuidoL",
+      "ChatGPT"
+   ],
+   "requirements":[
+      
+   ],
+   "iot_class":"local_polling",
+   "image":"images/primare.png"
 }
