@@ -11,8 +11,6 @@ number.py
 select.py
 switch.py
 
-create a subfolder named "images" and put primare.png there
-
 in number.py, select.py and switch.py replace the IP with the IP of your Primare SP25 Prisma or SPA25 Prisma.
 (SPA25_IP = "xxx.xxx.xxx.xxx" """ enter the IP of your primare device here""")
 
@@ -27,4 +25,4 @@ select:
 number:   
   - platform: primare
 
-  - save everything an restart HA
+save everything an restart HA
